@@ -6,6 +6,5 @@ https://github.com/dl1ycf/pihpsdr
 
 in the file release/piHPSDR-Manual.pdf.
 
-
-A description (pdf + odt) and a scripts.tar file for compiling piHPSDR/WSJTX/Fldigi/FreeDV from the sources on a RaspPi.
-
+There you can find detailed instructions on how to compile on
+Linux (including Raspberry Pi) and MacOS in the Appendices.
